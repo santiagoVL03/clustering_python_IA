@@ -14,11 +14,11 @@
 
 ## Tabla de Contenido
 
-- [Acerca del Proyecto](#star2-acerca-del-proyecto)
-    * [Tecnologías Usadas](#space_invader-tecnologías-usadas)
-- [Descripción General](#dart-descripción-general)
-    * [Caso de Uso](#dart-caso-de-uso)
-- [Contacto](#handshake-contacto)
+- Acerca del Proyecto
+    * Tecnologias Usadas
+- Descripcion General
+    * Caso de Uso
+- Contacto
 
 ## Acerca del Proyecto
 El proyecto "Optimizador de Puntos de Recogida" se enfoca en la optimización del proceso de recogida de casas mediante el uso de técnicas avanzadas de aprendizaje automático. La meta principal es encontrar la distribución más eficiente de puntos de recogida para un conjunto dado de casas, minimizando la distancia total recorrida por los vehículos de recogida.

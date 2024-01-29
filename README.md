@@ -19,6 +19,7 @@
 - Descripcion General
     * Caso de Uso
 - Contacto
+- Resultados
 
 ## Acerca del Proyecto
 El proyecto "Optimizador de Puntos de Recogida" se enfoca en la optimización del proceso de recogida de casas mediante el uso de técnicas avanzadas de aprendizaje automático. La meta principal es encontrar la distribución más eficiente de puntos de recogida para un conjunto dado de casas, minimizando la distancia total recorrida por los vehículos de recogida.
@@ -52,6 +53,15 @@ El "Optimizador de Puntos de Recogida" se encuentra diseñado para mejorar la ef
 * Ejecución de Recogida: Los Operadores de Recogida siguen las rutas asignadas para recoger las casas, siguiendo la planificación optimizada.
 
 * Monitoreo y Retroalimentación: Durante la ejecución, el sistema monitorea el progreso y recopila datos sobre la eficiencia de las rutas. Se recopila retroalimentación de los Operadores de Recogida para posibles mejoras futuras.
+
+## Resultados
+En esta sección se presentarán los resultados obtenidos mediante la aplicación del "Optimizador de Puntos de Recogida". Los mapas generados a partir de puntos de prueba ofrecerán una visualización clara de la distribución de casas, puntos de recogida y las rutas optimizadas para la recogida eficiente. A continuación, se detallan los aspectos clave de los resultados:
+
+### Mapa de Distribución de Casas y Puntos de Recogida
+![image](https://github.com/santiagoVL03/clustering_python_IA/assets/64206519/3db7e477-cbe7-421d-b3c9-250e26b1debb)
+### Mapa de Mejor ruta dados los Puntos Seleccionados
+![image](https://github.com/santiagoVL03/clustering_python_IA/assets/64206519/c5e8f215-faf3-4e10-ae6c-b4e967943790)
+
 
 ## Contacto
 santiagovl0308@gmail.com 
